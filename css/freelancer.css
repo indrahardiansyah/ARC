@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #e54363;
+  --primary: #1abc9c;
   --secondary: #2c3e50;
   --success: #28a745;
   --info: #17a2b8;
@@ -161,7 +161,7 @@ sup {
 }
 
 a {
-  color: #e54363;
+  color: #1abc9c;
   text-decoration: none;
   background-color: transparent;
 }
@@ -6916,13 +6916,13 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #feff24 !important;
+  background-color: #1abc9c !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #148f77 !important;
+  background-color: #e54363 !important;
 }
 
 .bg-secondary {
